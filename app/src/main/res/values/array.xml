@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Moscow</item>
+        <item>London</item>
+        <item>Sochi</item>
+        <item>Perm</item>
+        <item>Washington</item>
+        <item>Dubai</item>
+    </string-array>
+
+    <integer-array name="temperature">
+        <item>@drawable/moscow</item>
+        <item>@drawable/london</item>
+        <item>@drawable/sochi</item>
+        <item>@drawable/perm</item>
+        <item>@drawable/washington</item>
+        <item>@drawable/dubai</item>
+    </integer-array>
+
+</resources>
